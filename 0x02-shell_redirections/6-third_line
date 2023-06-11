@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n 3 iacta
+headd -3 iacta
