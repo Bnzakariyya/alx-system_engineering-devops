@@ -1,0 +1,1 @@
+This projectis about alias builtin, help builtin, local, global and reserved variables, special parameters `$?` and single an double quotes in Shell, during Full Stack Software Engineering studies at ALX
